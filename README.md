@@ -3,7 +3,7 @@
 **Specialist Support Engineer · Cloud Storage & Collaboration · Berlin**
 18+ years keeping cloud platforms running at STRATO (IONOS Group) — 2nd/3rd level for managed Nextcloud (~15,000 instances), HiDrive (~150,000 users) and S3 object storage. In parallel I build AI and automation tools: LLMs, RAG pipelines and agents.
 
-🌐 **[daniele-michelin.com](https://daniele-michelin.com/)** · [English](https://daniele-michelin.com/en/) · [Italiano](https://daniele-michelin.com/it/) · ✍️ [Blog](https://daniele-michelin.com/blog/) · 💼 [LinkedIn](https://www.linkedin.com/in/daniele-michelin-02863143b)
+🌐 **[daniele-michelin.com](https://daniele-michelin.com/)** · [English](https://daniele-michelin.com/en/) · [Italiano](https://daniele-michelin.com/it/) · ✍️ [Blog](https://daniele-michelin.com/blog/) · 💼 [LinkedIn](https://www.linkedin.com/in/danielemichelin)
 
 ```text
 $ systemctl status daniele-michelin
