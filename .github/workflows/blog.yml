@@ -1,0 +1,18 @@
+name: Latest blog posts
+on:
+  schedule:
+    - cron: "15 7 * * *"   # 07:15 UTC, after the daily 08:30 Berlin release
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/update_blog.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Latest blog posts" && git push)

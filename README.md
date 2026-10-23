@@ -24,6 +24,18 @@ $ systemctl status daniele-michelin
 | [acestudio-mac](https://github.com/Mikweb2025-design/acestudio-mac) | Native macOS front-end for local AI music generation with ACE-Step |
 | [famiglia-os](https://github.com/Mikweb2025-design/famiglia-os) | Self-hosted family OS — Nextcloud CalDAV first, kitchen wallboard, local-first AI |
 
+#### Latest from the blog
+<!-- BLOG:START -->
+- [Three critical NGINX flaws: less dramatic than PHP2Shell, but patch them quickly anyway](https://daniele-michelin.com/en/blog/nginx-vulnerabilities-october-2026/) · 2026-10-23
+- [Mitigating PHP2Shell when no update exists yet: php.ini settings for NAS, Plesk and your own servers](https://daniele-michelin.com/en/blog/php2shell-workaround-php-ini/) · 2026-10-21
+- [PHP emergency patch (PHP2Shell): how to check and patch your servers](https://daniele-michelin.com/en/blog/php-emergency-patch-php2shell/) · 2026-10-21
+- [DNS migration without downtime: TTL, order of steps and a checklist for domain and hosting moves](https://daniele-michelin.com/en/blog/dns-migration-without-downtime/) · 2026-10-18
+- [Mail landing in spam: SPF, DKIM and DMARC alignment explained](https://daniele-michelin.com/en/blog/email-spam-spf-dkim-dmarc/) · 2026-10-18
+<!-- BLOG:END -->
+
+#### Free tools & reference for admins
+[SPF lookup checker](https://daniele-michelin.com/en/tools/spf-lookup-checker/) · [DMARC generator](https://daniele-michelin.com/en/tools/dmarc-record-generator/) · [Mail DNS check](https://daniele-michelin.com/en/tools/mail-dns-checker/) · [SSL certificate check](https://daniele-michelin.com/en/tools/ssl-certificate-checker/) · [Security headers](https://daniele-michelin.com/en/tools/security-headers-checker/) · [Error code lexicon](https://daniele-michelin.com/en/errors/) · [Cheat sheets](https://daniele-michelin.com/en/cheat-sheets/) · [Comparisons](https://daniele-michelin.com/en/compare/) · [Weekly patch radar](https://daniele-michelin.com/en/radar/)
+
 #### Open to
 Roles where **cloud infrastructure, technical support / customer engineering and AI automation** meet — Berlin.
 📫 info@daniele-michelin.com
