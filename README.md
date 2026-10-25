@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Nextcloud: Collabora's built-in CODE server is being exploited. Check it today](https://daniele-michelin.com/en/blog/nextcloud-collabora-code-flaw-cve-2026-110447/) · 2026-10-25
 - [Three critical NGINX flaws: less dramatic than PHP2Shell, but patch them quickly anyway](https://daniele-michelin.com/en/blog/nginx-vulnerabilities-october-2026/) · 2026-10-23
 - [Mitigating PHP2Shell when no update exists yet: php.ini settings for NAS, Plesk and your own servers](https://daniele-michelin.com/en/blog/php2shell-workaround-php-ini/) · 2026-10-21
 - [PHP emergency patch (PHP2Shell): how to check and patch your servers](https://daniele-michelin.com/en/blog/php-emergency-patch-php2shell/) · 2026-10-21
 - [DNS migration without downtime: TTL, order of steps and a checklist for domain and hosting moves](https://daniele-michelin.com/en/blog/dns-migration-without-downtime/) · 2026-10-18
-- [Mail landing in spam: SPF, DKIM and DMARC alignment explained](https://daniele-michelin.com/en/blog/email-spam-spf-dkim-dmarc/) · 2026-10-18
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
