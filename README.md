@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Halloween: the token monster prefers video](https://daniele-michelin.com/en/blog/halloween-token-monster-image-vs-video/) · 2026-10-31
 - [One week after PHP2Shell: attacked in the wild, and now a Linux kernel flaw on top](https://daniele-michelin.com/en/blog/php2shell-one-week-later-kernel-flaw/) · 2026-10-30
 - [An AI assistant for your own website: chat, voice calls and appointments, hosted on my own Mac](https://daniele-michelin.com/en/blog/ai-assistant-for-your-own-website/) · 2026-10-28
 - [Root cause analysis in support: why the cause rarely sits where the symptom shows](https://daniele-michelin.com/en/blog/root-cause-analysis-in-support/) · 2026-10-26
 - [Nextcloud: Collabora's built-in CODE server is being exploited. Check it today](https://daniele-michelin.com/en/blog/nextcloud-collabora-code-flaw-cve-2026-110447/) · 2026-10-25
-- [Three critical NGINX flaws: less dramatic than PHP2Shell, but patch them quickly anyway](https://daniele-michelin.com/en/blog/nginx-vulnerabilities-october-2026/) · 2026-10-23
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
