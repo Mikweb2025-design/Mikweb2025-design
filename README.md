@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [We graded the security headers of 57 big websites: only 21 ship an effective CSP](https://daniele-michelin.com/en/blog/security-headers-57-websites/) · 2026-11-05
 - [HTTP security headers in ten minutes: a safe starter set for nginx and how to test it](https://daniele-michelin.com/en/blog/security-headers-starter-set/) · 2026-11-04
 - [Nextcloud doesn't show copied files: file system, database and occ files:scan](https://daniele-michelin.com/en/blog/nextcloud-files-not-showing-files-scan/) · 2026-11-04
 - [Incident note: No space left on device despite free space](https://daniele-michelin.com/en/blog/incident-note-linux-no-space-left/) · 2026-11-02
 - [Scam radar: today's phishing emails and fake texts in plain words, updated twice a day](https://daniele-michelin.com/en/blog/scam-radar-current-phishing-warnings/) · 2026-11-01
-- [Halloween: the token monster prefers video](https://daniele-michelin.com/en/blog/halloween-token-monster-image-vs-video/) · 2026-10-31
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
