@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
-- [We graded the security headers of 57 big websites: only 21 ship an effective CSP](https://daniele-michelin.com/en/blog/security-headers-57-websites/) · 2026-11-05
-- [HTTP security headers in ten minutes: a safe starter set for nginx and how to test it](https://daniele-michelin.com/en/blog/security-headers-starter-set/) · 2026-11-04
-- [Nextcloud doesn't show copied files: file system, database and occ files:scan](https://daniele-michelin.com/en/blog/nextcloud-files-not-showing-files-scan/) · 2026-11-04
-- [Incident note: No space left on device despite free space](https://daniele-michelin.com/en/blog/incident-note-linux-no-space-left/) · 2026-11-02
-- [Scam radar: today's phishing emails and fake texts in plain words, updated twice a day](https://daniele-michelin.com/en/blog/scam-radar-current-phishing-warnings/) · 2026-11-01
+- [Just for fun: an n8n oracle that reads the future from earthquakes, the solar wind and the ISS](https://daniele-michelin.com/en/blog/n8n-data-oracle/) · 2026-11-07
+- [A school report card for your website: security headers, e-mail protection and certificate, graded like at school](https://daniele-michelin.com/en/blog/website-security-report-card/) · 2026-11-07
+- [A postcard from orbit: n8n, the ISS, a real NASA satellite image and an AI](https://daniele-michelin.com/en/blog/n8n-orbit-postcard/) · 2026-11-07
+- [n8n introduced: a workflow that takes the internet's pulse, and you start it with one click](https://daniele-michelin.com/en/blog/n8n-introduced-internet-pulse/) · 2026-11-06
+- [Can these domains be spoofed? We checked SPF and DMARC of 102 well-known domains, and only half of the banks reject forged mail](https://daniele-michelin.com/en/blog/email-spoofing-ranking-102-domains/) · 2026-11-06
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
