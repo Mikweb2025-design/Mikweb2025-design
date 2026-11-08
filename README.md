@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
-- [Just for fun: an n8n oracle that reads the future from earthquakes, the solar wind and the ISS](https://daniele-michelin.com/en/blog/n8n-data-oracle/) · 2026-11-07
-- [A school report card for your website: security headers, e-mail protection and certificate, graded like at school](https://daniele-michelin.com/en/blog/website-security-report-card/) · 2026-11-07
-- [A postcard from orbit: n8n, the ISS, a real NASA satellite image and an AI](https://daniele-michelin.com/en/blog/n8n-orbit-postcard/) · 2026-11-07
-- [n8n introduced: a workflow that takes the internet's pulse, and you start it with one click](https://daniele-michelin.com/en/blog/n8n-introduced-internet-pulse/) · 2026-11-06
-- [Can these domains be spoofed? We checked SPF and DMARC of 102 well-known domains, and only half of the banks reject forged mail](https://daniele-michelin.com/en/blog/email-spoofing-ranking-102-domains/) · 2026-11-06
+- [The office morning: n8n reads Nextcloud, an AI plans the day, and the workflow creates a card, a file and focus time](https://daniele-michelin.com/en/blog/n8n-nextcloud-office-morning/) · 2026-11-08
+- [Incident note: Nextcloud "file is locked" (423 Locked): fix](https://daniele-michelin.com/en/blog/incident-note-nextcloud-423-locked/) · 2026-11-08
+- [The AI talk show: five AI guests discuss your website, an n8n workflow delivers the facts](https://daniele-michelin.com/en/blog/n8n-ai-talk-show/) · 2026-11-08
+- [Link galaxy: an n8n workflow crawls your website and shows its internal linking as a 3D galaxy](https://daniele-michelin.com/en/blog/n8n-link-galaxy/) · 2026-11-07
+- [Your website as a city: an n8n workflow builds it as a miniature town](https://daniele-michelin.com/en/blog/n8n-website-city/) · 2026-11-07
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
