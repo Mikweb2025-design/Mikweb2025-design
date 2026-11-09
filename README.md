@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Website DNA: an n8n workflow sequences your homepage and finds third parties and CVEs](https://daniele-michelin.com/en/blog/n8n-website-dna-scan/) · 2026-11-09
+- [Mission Control: 90 seconds to handle a fictional cyber incident](https://daniele-michelin.com/en/blog/n8n-mission-control/) · 2026-11-08
+- [I turned earthquakes and solar activity into music that changes every day](https://daniele-michelin.com/en/blog/n8n-earth-orchestra/) · 2026-11-08
 - [The office morning: n8n reads Nextcloud, an AI plans the day, and the workflow creates a card, a file and focus time](https://daniele-michelin.com/en/blog/n8n-nextcloud-office-morning/) · 2026-11-08
 - [Incident note: Nextcloud "file is locked" (423 Locked): fix](https://daniele-michelin.com/en/blog/incident-note-nextcloud-423-locked/) · 2026-11-08
-- [The AI talk show: five AI guests discuss your website, an n8n workflow delivers the facts](https://daniele-michelin.com/en/blog/n8n-ai-talk-show/) · 2026-11-08
-- [Link galaxy: an n8n workflow crawls your website and shows its internal linking as a 3D galaxy](https://daniele-michelin.com/en/blog/n8n-link-galaxy/) · 2026-11-07
-- [Your website as a city: an n8n workflow builds it as a miniature town](https://daniele-michelin.com/en/blog/n8n-website-city/) · 2026-11-07
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
