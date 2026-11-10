@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Checking your Nextcloud from the outside: version, support end, exposed paths](https://daniele-michelin.com/en/blog/checking-nextcloud-from-the-outside/) · 2026-11-09
 - [Website DNA: an n8n workflow sequences your homepage and finds third parties and CVEs](https://daniele-michelin.com/en/blog/n8n-website-dna-scan/) · 2026-11-09
 - [Mission Control: 90 seconds to handle a fictional cyber incident](https://daniele-michelin.com/en/blog/n8n-mission-control/) · 2026-11-08
 - [I turned earthquakes and solar activity into music that changes every day](https://daniele-michelin.com/en/blog/n8n-earth-orchestra/) · 2026-11-08
 - [The office morning: n8n reads Nextcloud, an AI plans the day, and the workflow creates a card, a file and focus time](https://daniele-michelin.com/en/blog/n8n-nextcloud-office-morning/) · 2026-11-08
-- [Incident note: Nextcloud "file is locked" (423 Locked): fix](https://daniele-michelin.com/en/blog/incident-note-nextcloud-423-locked/) · 2026-11-08
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
