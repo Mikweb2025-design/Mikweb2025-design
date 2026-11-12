@@ -36,6 +36,12 @@ $ systemctl status daniele-michelin
 #### Free tools & reference for admins
 [SPF lookup checker](https://daniele-michelin.com/en/tools/spf-lookup-checker/) · [DMARC generator](https://daniele-michelin.com/en/tools/dmarc-record-generator/) · [Mail DNS check](https://daniele-michelin.com/en/tools/mail-dns-checker/) · [SSL certificate check](https://daniele-michelin.com/en/tools/ssl-certificate-checker/) · [Security headers](https://daniele-michelin.com/en/tools/security-headers-checker/) · [Error code lexicon](https://daniele-michelin.com/en/errors/) · [Cheat sheets](https://daniele-michelin.com/en/cheat-sheets/) · [Comparisons](https://daniele-michelin.com/en/compare/) · [Weekly patch radar](https://daniele-michelin.com/en/radar/)
 
+#### Explore the live site
+- [All free tools](https://daniele-michelin.com/en/tools/) — DNS, mail and TLS checkers for admins
+- [Live n8n workflows](https://daniele-michelin.com/en/n8n/) — running demos, not screenshots
+- [Error lexicon](https://daniele-michelin.com/en/errors/) — real error messages with fixes
+- Rankings: [security headers](https://daniele-michelin.com/en/header-ranking/) · [email security](https://daniele-michelin.com/en/email-ranking/)
+
 #### Open to
 Roles where **cloud infrastructure, technical support / customer engineering and AI automation** meet — Berlin.
 📫 info@daniele-michelin.com
