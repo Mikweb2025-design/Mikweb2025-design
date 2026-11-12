@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [n8n workflow #1: the website watcher that only speaks up when something changes](https://daniele-michelin.com/en/blog/n8n-week-1-website-watcher/) · 2026-11-12
+- [The sky of the night you were born: an n8n workflow recalculates the stars](https://daniele-michelin.com/en/blog/n8n-birth-sky/) · 2026-11-12
+- [Power planner: n8n finds cheaper and greener hours](https://daniele-michelin.com/en/blog/n8n-power-planner/) · 2026-11-12
 - [Checking your Nextcloud from the outside: version, support end, exposed paths](https://daniele-michelin.com/en/blog/checking-nextcloud-from-the-outside/) · 2026-11-09
 - [Website DNA: an n8n workflow sequences your homepage and finds third parties and CVEs](https://daniele-michelin.com/en/blog/n8n-website-dna-scan/) · 2026-11-09
-- [Mission Control: 90 seconds to handle a fictional cyber incident](https://daniele-michelin.com/en/blog/n8n-mission-control/) · 2026-11-08
-- [I turned earthquakes and solar activity into music that changes every day](https://daniele-michelin.com/en/blog/n8n-earth-orchestra/) · 2026-11-08
-- [The office morning: n8n reads Nextcloud, an AI plans the day, and the workflow creates a card, a file and focus time](https://daniele-michelin.com/en/blog/n8n-nextcloud-office-morning/) · 2026-11-08
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
