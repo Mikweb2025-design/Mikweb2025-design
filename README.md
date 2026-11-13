@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Microsoft 365 was down for over twelve hours: what the outage says about our dependency](https://daniele-michelin.com/en/blog/microsoft-365-outage-dependency/) · 2026-11-13
+- [AI in support: what it does well – and where a human still decides](https://daniele-michelin.com/en/blog/ai-in-support/) · 2026-11-13
 - [n8n workflow #1: the website watcher that only speaks up when something changes](https://daniele-michelin.com/en/blog/n8n-week-1-website-watcher/) · 2026-11-12
 - [The sky of the night you were born: an n8n workflow recalculates the stars](https://daniele-michelin.com/en/blog/n8n-birth-sky/) · 2026-11-12
-- [Power planner: n8n finds cheaper and greener hours](https://daniele-michelin.com/en/blog/n8n-power-planner/) · 2026-11-12
-- [Checking your Nextcloud from the outside: version, support end, exposed paths](https://daniele-michelin.com/en/blog/checking-nextcloud-from-the-outside/) · 2026-11-09
-- [Website DNA: an n8n workflow sequences your homepage and finds third parties and CVEs](https://daniele-michelin.com/en/blog/n8n-website-dna-scan/) · 2026-11-09
+- [Power Planner: n8n finds the cheapest and greenest hours](https://daniele-michelin.com/en/blog/n8n-power-planner/) · 2026-11-12
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
