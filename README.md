@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [The day after the Microsoft 365 outage: what we learned and what you can do now](https://daniele-michelin.com/en/blog/microsoft-365-outage-lessons-day-after/) · 2026-11-14
+- [UnrealIRCd CVE-2026-114713: how to check your server and apply the hot-patch](https://daniele-michelin.com/en/blog/unrealircd-cve-2026-114713-check-hot-patch/) · 2026-11-14
+- [Incident note: DNS SERVFAIL: find the cause (DNSSEC & more)](https://daniele-michelin.com/en/blog/incident-note-dns-servfail/) · 2026-11-14
+- [The Inbox Beast: an n8n workflow sorts the inbox and feeds a beast](https://daniele-michelin.com/en/blog/n8n-nextcloud-inbox-beast/) · 2026-11-13
 - [Microsoft 365 was down for over twelve hours: what the outage says about our dependency](https://daniele-michelin.com/en/blog/microsoft-365-outage-dependency/) · 2026-11-13
-- [AI in support: what it does well – and where a human still decides](https://daniele-michelin.com/en/blog/ai-in-support/) · 2026-11-13
-- [n8n workflow #1: the website watcher that only speaks up when something changes](https://daniele-michelin.com/en/blog/n8n-week-1-website-watcher/) · 2026-11-12
-- [The sky of the night you were born: an n8n workflow recalculates the stars](https://daniele-michelin.com/en/blog/n8n-birth-sky/) · 2026-11-12
-- [Power Planner: n8n finds the cheapest and greenest hours](https://daniele-michelin.com/en/blog/n8n-power-planner/) · 2026-11-12
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
