@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Disk full but no big files to be found: tracking down deleted, still-open files with lsof](https://daniele-michelin.com/en/blog/disk-full-deleted-open-files-lsof/) · 2026-11-16
 - [The day after the Microsoft 365 outage: what we learned and what you can do now](https://daniele-michelin.com/en/blog/microsoft-365-outage-lessons-day-after/) · 2026-11-14
 - [UnrealIRCd CVE-2026-114713: how to check your server and apply the hot-patch](https://daniele-michelin.com/en/blog/unrealircd-cve-2026-114713-check-hot-patch/) · 2026-11-14
 - [Incident note: DNS SERVFAIL: find the cause (DNSSEC & more)](https://daniele-michelin.com/en/blog/incident-note-dns-servfail/) · 2026-11-14
 - [The Inbox Beast: an n8n workflow sorts the inbox and feeds a beast](https://daniele-michelin.com/en/blog/n8n-nextcloud-inbox-beast/) · 2026-11-13
-- [Microsoft 365 was down for over twelve hours: what the outage says about our dependency](https://daniele-michelin.com/en/blog/microsoft-365-outage-dependency/) · 2026-11-13
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
