@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Incident note: SMTP 550 5.7.1: Relay access denied – causes & fix](https://daniele-michelin.com/en/blog/incident-note-smtp-550-571/) · 2026-11-18
+- [Timesheet Guardian: an n8n workflow that checks time tracking against German working-time law](https://daniele-michelin.com/en/blog/timesheet-guardian/) · 2026-11-17
 - [The Rubber Stamp Test: would you approve a €4,800 refund for a €48 order?](https://daniele-michelin.com/en/blog/rubber-stamp-test/) · 2026-11-16
 - [Disk full but no big files to be found: tracking down deleted, still-open files with lsof](https://daniele-michelin.com/en/blog/disk-full-deleted-open-files-lsof/) · 2026-11-16
 - [The day after the Microsoft 365 outage: what we learned and what you can do now](https://daniele-michelin.com/en/blog/microsoft-365-outage-lessons-day-after/) · 2026-11-14
-- [UnrealIRCd CVE-2026-114713: how to check your server and apply the hot-patch](https://daniele-michelin.com/en/blog/unrealircd-cve-2026-114713-check-hot-patch/) · 2026-11-14
-- [Incident note: DNS SERVFAIL: find the cause (DNSSEC & more)](https://daniele-michelin.com/en/blog/incident-note-dns-servfail/) · 2026-11-14
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
