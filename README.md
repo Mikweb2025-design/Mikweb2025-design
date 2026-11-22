@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Career change into IT: what logistics taught me for 2nd/3rd-level support](https://daniele-michelin.com/en/blog/career-change-into-it-support/) · 2026-11-22
 - [Black Friday 2026: how to spot a fake online shop in 60 seconds, before you pay](https://daniele-michelin.com/en/blog/black-friday-fake-shop-check/) · 2026-11-21
 - [Health Check: my smartwatch data now lands in my own Nextcloud instead of a vendor cloud](https://daniele-michelin.com/en/blog/health-check-nextcloud/) · 2026-11-20
 - [Let's Encrypt won't renew although the site works: port 80, AAAA records and HTTP-01](https://daniele-michelin.com/en/blog/lets-encrypt-renewal-fails/) · 2026-11-19
 - [n8n workflow #2: a push notification when the ISS flies over my town](https://daniele-michelin.com/en/blog/n8n-week-2-iss-over-my-town/) · 2026-11-19
-- [Incident note: SMTP 550 5.7.1: Relay access denied – causes & fix](https://daniele-michelin.com/en/blog/incident-note-smtp-550-571/) · 2026-11-18
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
