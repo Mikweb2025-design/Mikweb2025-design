@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Scam Live Map: what German police report about phone scams and phishing right now, on one map](https://daniele-michelin.com/en/blog/scam-live-map-police-reports/) · 2026-11-26
+- [n8n workflow #3: a warning before a TLS certificate expires](https://daniele-michelin.com/en/blog/n8n-week-3-certificates-expiring/) · 2026-11-26
 - [Nextcloud sluggish, trash never empties: running background jobs properly with cron](https://daniele-michelin.com/en/blog/nextcloud-cron-background-jobs/) · 2026-11-25
 - [Career change into IT: what logistics taught me for 2nd/3rd-level support](https://daniele-michelin.com/en/blog/career-change-into-it-support/) · 2026-11-22
 - [Black Friday 2026: how to spot a fake online shop in 60 seconds, before you pay](https://daniele-michelin.com/en/blog/black-friday-fake-shop-check/) · 2026-11-21
-- [Health Check: my smartwatch data now lands in my own Nextcloud instead of a vendor cloud](https://daniele-michelin.com/en/blog/health-check-nextcloud/) · 2026-11-20
-- [Let's Encrypt won't renew although the site works: port 80, AAAA records and HTTP-01](https://daniele-michelin.com/en/blog/lets-encrypt-renewal-fails/) · 2026-11-19
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
