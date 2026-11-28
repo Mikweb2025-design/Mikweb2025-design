@@ -26,11 +26,11 @@ $ systemctl status daniele-michelin
 
 #### Latest from the blog
 <!-- BLOG:START -->
+- [Why I insist on citations in RAG systems](https://daniele-michelin.com/en/blog/rag-citations/) · 2026-11-28
 - [Paperwork Killer: photograph a letter, send it by WhatsApp, and the workflow handles deadline and filing](https://daniele-michelin.com/en/blog/paperwork-killer-letter-by-whatsapp/) · 2026-11-27
 - [Scam Live Map: what German police report about phone scams and phishing right now, on one map](https://daniele-michelin.com/en/blog/scam-live-map-police-reports/) · 2026-11-26
 - [n8n workflow #3: a warning before a TLS certificate expires](https://daniele-michelin.com/en/blog/n8n-week-3-certificates-expiring/) · 2026-11-26
 - [Nextcloud sluggish, trash never empties: running background jobs properly with cron](https://daniele-michelin.com/en/blog/nextcloud-cron-background-jobs/) · 2026-11-25
-- [Career change into IT: what logistics taught me for 2nd/3rd-level support](https://daniele-michelin.com/en/blog/career-change-into-it-support/) · 2026-11-22
 <!-- BLOG:END -->
 
 #### Free tools & reference for admins
